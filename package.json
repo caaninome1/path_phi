@@ -1,0 +1,28 @@
+{
+  "name": "path_phi",
+  "version": "1.0.0",
+  "description": "Plataforma para encontrar recursos y rutas de aprendizaje gratuitas.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caaninome1/path_phi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caaninome1/path_phi/issues"
+  },
+  "homepage": "https://github.com/caaninome1/path_phi#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.14",
+    "typescript": "^4.4.4"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "pg": "^8.7.1"
+  }
+}
